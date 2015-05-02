@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/boon/AndroidStudioProjects/Spinner/app/src/androidTest/res"><file path="/Users/boon/AndroidStudioProjects/Spinner/app/src/androidTest/res/values/strings.xml" qualifiers=""><string name="app_name">SpinnerTest</string></file></source><source path="/Users/boon/AndroidStudioProjects/Spinner/app/build/generated/res/rs/androidTest/debug"/><source path="/Users/boon/AndroidStudioProjects/Spinner/app/build/generated/res/generated/androidTest/debug"/></dataSet><mergedItems/></merger>

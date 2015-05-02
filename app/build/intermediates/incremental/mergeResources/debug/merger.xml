@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/boon/AndroidStudioProjects/Spinner/app/src/main/res"><file name="main" path="/Users/boon/AndroidStudioProjects/Spinner/app/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file path="/Users/boon/AndroidStudioProjects/Spinner/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Spinner</string><string name="planet_prompt">Select a planet</string><string-array name="Planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array></file></source><source path="/Users/boon/AndroidStudioProjects/Spinner/app/build/generated/res/rs/debug"/><source path="/Users/boon/AndroidStudioProjects/Spinner/app/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/Users/boon/AndroidStudioProjects/Spinner/app/src/debug/res"/></dataSet><mergedItems/></merger>
